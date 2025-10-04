@@ -1,2 +1,3 @@
 # int3117
-Testing exercises
+
+Exercises for INT3117 - Software Testing and Quality Assurance
